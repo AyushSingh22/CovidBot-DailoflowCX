@@ -9,7 +9,7 @@ DialogflowCX Competition
 
 **Covering use case:**
 The Covid is unknown for all. It's been more than a year and each person on the planet earth is trying to find a solution and help in any possible way. The bot developed for Dialogflow CX completion is part of extending that help:
-In this chatbot, we are covering :
+In this chatbot, I am covering :
 - **Covid 19 Mythbuster:** From WHO,  here I am providing the common Coivd 19 Myth with any topic. The display is handled with images to illustrate the myth and related facts in detail.
 - **India Covid Status:** From MOHFA, pull the latest data of India covid status i.e Affected, Recovered, Death.
 - **Vaccine Availablity:** From Cowin, provide information about nearest Hospital and vaccine availability based on the user-provided India Zipcode/postcode.
