@@ -7,9 +7,10 @@ DialogflowCX Competition
 
 
 
-**Components:**
+**Overview**
 The Covid is unknown for all. It's been more than a year and each person on the planet earth is trying to find a solution and help in any possible way. The bot developed for Dialogflow CX completion is part of extending that help:
-In this chatbot, I am covering :
+**Components:**
+In this chatbot, I will cover:
 - **Covid 19 Mythbuster:** I have fetched the data related to the common Coivd 19 Myth from WHO with any topic. The display is handled with images to illustrate the myth and related facts in detail.
 - **India Covid Status:** From MOHFA, I have pulled the latest data of India covid status i.e Affected, Recovered, Death.
 - **Vaccine Availablity:** I have provided the information about nearest Hospital and vaccine availability based on the user-provided India Zipcode/postcode using COWIN's API
@@ -46,7 +47,7 @@ _Information from Flipkart URL's_
 
 ![image](https://user-images.githubusercontent.com/32197733/130457506-737b17fb-0cc7-428d-ad49-1b4cf7d4f3fa.png)
 
-**Search other Items:** Like Blue Tshirt ( in case your are getting bored )
+**Search other Items:** Like Blue Tshirt or PS5 ( in case your are getting bored )
 
 _Information from Flipkart Search response_
 
