@@ -7,14 +7,14 @@ DialogflowCX Competition
 
 
 
-**Covering use case:**
+**Components:**
 The Covid is unknown for all. It's been more than a year and each person on the planet earth is trying to find a solution and help in any possible way. The bot developed for Dialogflow CX completion is part of extending that help:
 In this chatbot, I am covering :
-- **Covid 19 Mythbuster:** From WHO,  here I am providing the common Coivd 19 Myth with any topic. The display is handled with images to illustrate the myth and related facts in detail.
-- **India Covid Status:** From MOHFA, pull the latest data of India covid status i.e Affected, Recovered, Death.
-- **Vaccine Availablity:** From Cowin, provide information about nearest Hospital and vaccine availability based on the user-provided India Zipcode/postcode.
-- **Essential Items:** Over here we are assisting users with information of Covid related essential items like Sanitizer, OxyMeter, Face Mask and various others. Here users can click on the item and purchase from Flipkart. If the user is looking for any particular item which was not listed in the previous menu then the user has the option to perform a search and get the results. All products are fetched using Flipkart API.
-- **FAQ:** The FAQ is listed as per the MOHFA website. Over here we have enabled two languages - English & Hindi. User can ask his/her query in preferred language and our chatbot will try to assist with information from the FAQ provided in MOHFA website.
+- **Covid 19 Mythbuster:** I have fetched the data related to the common Coivd 19 Myth from WHO with any topic. The display is handled with images to illustrate the myth and related facts in detail.
+- **India Covid Status:** From MOHFA, I have pulled the latest data of India covid status i.e Affected, Recovered, Death.
+- **Vaccine Availablity:** I have provided the information about nearest Hospital and vaccine availability based on the user-provided India Zipcode/postcode using COWIN's API
+- **Essential Items:** The Bot will assist users with information of Covid related essential items like Sanitizer, OxyMeter, Face Mask and various others. I have embedded the Flipkart API system so that an user can click on the essential item/itemsand purchase from Flipkart. If the user is looking for any particular item which was not listed in the previous menu then the user has the option to perform a search and get the results..
+- **FAQ:** The FAQ is listed accordance with the MOHFA website. Over here I have enabled two languages - English & Hindi. User can ask his/her query in preferred language and our chatbot will try to assist with information from the FAQ provided in MOHFA website.
 - About Me: Details of the developer.
 
 **Look and feel:**
@@ -46,7 +46,7 @@ _Information from Flipkart URL's_
 
 ![image](https://user-images.githubusercontent.com/32197733/130457506-737b17fb-0cc7-428d-ad49-1b4cf7d4f3fa.png)
 
-**Search other Items:** Like Sony PS5 ( in case your are getting bored ☺)
+**Search other Items:** Like Blue Tshirt ( in case your are getting bored )
 
 _Information from Flipkart Search response_
 
